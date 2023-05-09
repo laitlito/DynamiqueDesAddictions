@@ -1,4 +1,4 @@
-# DynamiqueDesAddictions
+# Dynamique des addictions
 Une implémentation en python d'un modèle mathématique rendant compte de l'évolution de l'addiction d'un individu en fonction de plusieurs paramètres
 # Librairies requises
 Le code utilise les librairies numpy et matplotlib, vous pouvez les installer comme suit 
